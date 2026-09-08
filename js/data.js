@@ -256,7 +256,7 @@ const HIGHLIGHTS = [
 
 /* Special offers / promo banners shown on the home screen */
 const OFFERS = [
-  { id: "off1", icon: "fa-solid fa-truck-fast", title: "Free Delivery", sub: "Automatically applied on all orders above ₹999, no code needed", tag: "Auto-applied" },
+  { id: "off1", icon: "fa-solid fa-truck-fast", title: "Free Delivery", sub: "Automatically applied on all orders above ₹999", tag: "Auto-applied" },
   { id: "off2", icon: "fa-solid fa-gift", title: "Custom Cake Special", sub: "Free candles & greeting card on custom orders", tag: "Custom Orders" },
   { id: "off3", icon: "fa-solid fa-cake-candles", title: "Birthday Week Treat", sub: "Order 2 days ahead for a priority baking slot", tag: "Plan Ahead" },
 ];
